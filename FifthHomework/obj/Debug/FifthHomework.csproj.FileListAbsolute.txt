@@ -1,0 +1,7 @@
+D:\Загрузки\Учеба\Geek\Unity\Test\FifthHomework\FifthHomework\bin\Debug\FifthHomework.exe.config
+D:\Загрузки\Учеба\Geek\Unity\Test\FifthHomework\FifthHomework\bin\Debug\FifthHomework.exe
+D:\Загрузки\Учеба\Geek\Unity\Test\FifthHomework\FifthHomework\bin\Debug\FifthHomework.pdb
+D:\Загрузки\Учеба\Geek\Unity\Test\FifthHomework\FifthHomework\obj\Debug\FifthHomework.csprojAssemblyReference.cache
+D:\Загрузки\Учеба\Geek\Unity\Test\FifthHomework\FifthHomework\obj\Debug\FifthHomework.csproj.CoreCompileInputs.cache
+D:\Загрузки\Учеба\Geek\Unity\Test\FifthHomework\FifthHomework\obj\Debug\FifthHomework.exe
+D:\Загрузки\Учеба\Geek\Unity\Test\FifthHomework\FifthHomework\obj\Debug\FifthHomework.pdb
